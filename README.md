@@ -1,6 +1,6 @@
 # 备份
 ## windows os
-[不忘初心win10精简版](https://github.com/1332165192/back/releases/tag/win_10))
+[不忘初心win10精简版](https://github.com/1332165192/back/releases/tag/win_10)
 ## Magisk 过root检测模块
 
 [Shamiko-v1.2.1](https://github.com/1332165192/back/releases/tag/Shamiko-v1.2.1-383-back)
