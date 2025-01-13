@@ -5,4 +5,4 @@ windows os
 
 ### Download
 - release
-  from [github: ![Latest release](https://img.shields.io/github/release/skylot/jadx.svg)](https://github.com/skylot/jadx/releases/latest)
+  from [github:](https://github.com/skylot/jadx/releases/latest)
