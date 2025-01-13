@@ -5,12 +5,12 @@ windows os
 
 [Android APP 绕过安全检测机制](https://xz.aliyun.com/t/12858?time__1311=GqGxuDcDRD9AitD%2FYriQGkQjdGIhS3wu0bD)
 
-##jetbrains全家桶激活
+## jetbrains全家桶激活
 
 https://www.ajihuo.com/
 
 激活教程:https://shimo.im/docs/gXqmdEwygMHyrj3o/read
 
-激活软件:
+激活软件:https://github.com/1332165192/back/releases/tag/jetbrains_jihuo
 
 
