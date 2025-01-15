@@ -24,4 +24,7 @@ https://www.ajihuo.com/
 ## 格式工厂
 https://github.com/1332165192/back/releases/tag/FormatFactory
 
+## 百度地图历史版(Android)
+V19-V20:https://github.com/1332165192/back/releases/tag/baidu_map
+
 
