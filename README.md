@@ -27,4 +27,7 @@ https://github.com/1332165192/back/releases/tag/FormatFactory
 ## 百度地图历史版(Android)
 V19-V20:https://github.com/1332165192/back/releases/tag/baidu_map
 
+## Bluetooth_Audio_Receiver
+https://github.com/1332165192/back/releases/tag/bluetooth_audio
+
 
