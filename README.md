@@ -31,5 +31,7 @@ V19-V20:https://github.com/1332165192/back/releases/tag/baidu_map
 手机、iPad的声音通过蓝牙连接到电脑播放、电脑相当于手机的耳机(音响)
 
 https://github.com/1332165192/back/releases/tag/bluetooth_audio
+## Visual-Studio-2019
+https://github.com/1332165192/back/releases/tag/Visual-Studio-2019
 
 
