@@ -1,4 +1,4 @@
-name: Update README on Release
+name: Update README on Release - blank
 
 on:
   release:
@@ -12,6 +12,8 @@ jobs:
     
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Get release information
         id: release
@@ -21,13 +23,13 @@ jobs:
 
       - name: Update README.md
         run: |
-          echo "\n## ${GITHUB_REF#refs/tags/}" >> README.md
-          echo "[Release链接](${{ github.event.release.html_url }})" >> README.md
+          echo -e "\n## ${GITHUB_REF#refs/tags/}" >> README.md
+          echo -e "[Release链接](${{ github.event.release.html_url }})" >> README.md
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "docs: update README.md for release ${GITHUB_REF#refs/tags/}"
+          git diff --quiet && git diff --staged --quiet || git commit -m "docs: update README.md for release ${GITHUB_REF#refs/tags/}"
           git push
