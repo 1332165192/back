@@ -44,3 +44,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## VMware-workstation-full-17.0.0-20800274
 [Release链接](https://github.com/1332165192/back/releases/tag/VMware-workstation-full-17.0.0-20800274)
+
+## charles-proxy-4.6.8
+[Release链接](https://github.com/1332165192/back/releases/tag/charles-proxy-4.6.8)
