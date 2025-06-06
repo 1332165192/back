@@ -58,3 +58,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## magisk_v29.0
 [Release链接](https://github.com/1332165192/back/releases/tag/magisk_v29.0)
+
+## LSPosed-v1.9.2
+[Release链接](https://github.com/1332165192/back/releases/tag/LSPosed-v1.9.2)
