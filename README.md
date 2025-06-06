@@ -61,3 +61,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## LSPosed-v1.9.2
 [Release链接](https://github.com/1332165192/back/releases/tag/LSPosed-v1.9.2)
+
+## HookVipv3.4.3
+[Release链接](https://github.com/1332165192/back/releases/tag/HookVipv3.4.3)
