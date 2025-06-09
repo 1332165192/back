@@ -67,3 +67,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## Wink_1.3.5.5
 [Release链接](https://github.com/1332165192/back/releases/tag/Wink_1.3.5.5)
+
+## new-hook-vip-v4.0.5
+[Release链接](https://github.com/1332165192/back/releases/tag/new-hook-vip-v4.0.5)
