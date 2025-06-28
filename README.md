@@ -76,3 +76,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## 安卓_搞机工具箱_v9.93
 [Release链接](https://github.com/1332165192/back/releases/tag/%E5%AE%89%E5%8D%93_%E6%90%9E%E6%9C%BA%E5%B7%A5%E5%85%B7%E7%AE%B1_v9.93)
+
+## 有线上网工具_v2.0.1
+[Release链接](https://github.com/1332165192/back/releases/tag/%E6%9C%89%E7%BA%BF%E4%B8%8A%E7%BD%91%E5%B7%A5%E5%85%B7_v2.0.1)
