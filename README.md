@@ -70,3 +70,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## new-hook-vip-v4.0.5
 [Release链接](https://github.com/1332165192/back/releases/tag/new-hook-vip-v4.0.5)
+
+## 安卓自动化助手_v1.1.7
+[Release链接](https://github.com/1332165192/back/releases/tag/%E5%AE%89%E5%8D%93%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%A9%E6%89%8B_v1.1.7)
