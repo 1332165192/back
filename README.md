@@ -83,5 +83,5 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 ## 投屏控制器64位_V3.1.0
 [Release链接](https://github.com/1332165192/back/releases/tag/%E6%8A%95%E5%B1%8F%E6%8E%A7%E5%88%B6%E5%99%A864%E4%BD%8D_V3.1.0)
 
-## rustdesk
+## rustdesk(远程桌面)
 [Release链接](https://github.com/1332165192/back/releases/tag/rustdesk)
