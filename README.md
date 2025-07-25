@@ -88,3 +88,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## 6.17.0-EasyClickDevTools-idea插件
 [Release链接](https://github.com/1332165192/back/releases/tag/6.17.0-EasyClickDevTools-idea%E6%8F%92%E4%BB%B6)
+
+## HexHub-V-1.2.9
+[Release链接](https://github.com/1332165192/back/releases/tag/HexHub-V-1.2.9)
