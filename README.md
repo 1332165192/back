@@ -90,3 +90,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## HexHub-V-1.2.9
 [Release链接](https://github.com/1332165192/back/releases/tag/HexHub-V-1.2.9)
+
+## WO-Mic(手机当作电脑mic)
+[Release链接](https://github.com/1332165192/back/releases/tag/WO-Mic(%E6%89%8B%E6%9C%BA%E5%BD%93%E4%BD%9C%E7%94%B5%E8%84%91mic))
