@@ -96,3 +96,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## audiorelay(电脑输出音频到手机)
 [Release链接](https://github.com/1332165192/back/releases/tag/audiorelay(%E7%94%B5%E8%84%91%E8%BE%93%E5%87%BA%E9%9F%B3%E9%A2%91%E5%88%B0%E6%89%8B%E6%9C%BA))
+
+## audiorelay_android(pojieban)
+[Release链接](https://github.com/1332165192/back/releases/tag/audiorelay_android(pojieban))
