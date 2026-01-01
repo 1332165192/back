@@ -117,3 +117,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## hidebusybox-V25.04.1
 [Release链接](https://github.com/1332165192/back/releases/tag/hidebusybox-V25.04.1)
+
+## helsirootbypass-v1.0
+[Release链接](https://github.com/1332165192/back/releases/tag/helsirootbypass-v1.0)
