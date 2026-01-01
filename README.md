@@ -114,3 +114,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## activitystartmanager-1.13
 [Release链接](https://github.com/1332165192/back/releases/tag/activitystartmanager-1.13)
+
+## hidebusybox-V25.04.1
+[Release链接](https://github.com/1332165192/back/releases/tag/hidebusybox-V25.04.1)
