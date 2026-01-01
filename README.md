@@ -111,3 +111,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## SSLKiller-v1.2beta
 [Release链接](https://github.com/1332165192/back/releases/tag/SSLKiller-v1.2beta)
+
+## activitystartmanager-1.13
+[Release链接](https://github.com/1332165192/back/releases/tag/activitystartmanager-1.13)
