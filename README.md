@@ -120,3 +120,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## helsirootbypass-v1.0
 [Release链接](https://github.com/1332165192/back/releases/tag/helsirootbypass-v1.0)
+
+## hookui-XSimple-2.0
+[Release链接](https://github.com/1332165192/back/releases/tag/hookui-XSimple-2.0)
