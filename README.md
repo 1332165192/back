@@ -102,3 +102,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## ZygiskNext-1.3.2
 [Release链接](https://github.com/1332165192/back/releases/tag/ZygiskNext-1.3.2)
+
+## Dexterceptor-2.0
+[Release链接](https://github.com/1332165192/back/releases/tag/Dexterceptor-2.0)
