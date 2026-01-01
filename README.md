@@ -99,3 +99,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## audiorelay_android(pojieban)
 [Release链接](https://github.com/1332165192/back/releases/tag/audiorelay_android(pojieban))
+
+## ZygiskNext-1.3.2
+[Release链接](https://github.com/1332165192/back/releases/tag/ZygiskNext-1.3.2)
