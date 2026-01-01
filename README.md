@@ -108,3 +108,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## Layout-Inspect-1.1.1
 [Release链接](https://github.com/1332165192/back/releases/tag/Layout-Inspect-1.1.1)
+
+## SSLKiller-v1.2beta
+[Release链接](https://github.com/1332165192/back/releases/tag/SSLKiller-v1.2beta)
