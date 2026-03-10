@@ -126,3 +126,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## process-hook-v1.3.1
 [Release链接](https://github.com/1332165192/back/releases/tag/process-hook-v1.3.1)
+
+## mobile-ai
+[Release链接](https://github.com/1332165192/back/releases/tag/mobile-ai)
