@@ -129,3 +129,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## mobile-ai移动端运行ai
 [Release链接](https://github.com/1332165192/back/releases/tag/mobile-ai)
+
+## Clash.Verge_2.4.3
+[Release链接](https://github.com/1332165192/back/releases/tag/Clash.Verge_2.4.3)
