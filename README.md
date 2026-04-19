@@ -138,3 +138,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## App_Settings_Reborn_v1.7
 [Release链接](https://github.com/1332165192/back/releases/tag/App_Settings_Reborn_v1.7)
+
+## SoTap_1.0
+[Release链接](https://github.com/1332165192/back/releases/tag/SoTap_1.0)
