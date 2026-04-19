@@ -132,3 +132,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## Clash.Verge_2.4.3
 [Release链接](https://github.com/1332165192/back/releases/tag/Clash.Verge_2.4.3)
+
+## Layout.Inspect_1.1.4_18
+[Release链接](https://github.com/1332165192/back/releases/tag/Layout.Inspect_1.1.4_18)
