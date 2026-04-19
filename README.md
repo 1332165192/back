@@ -135,3 +135,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## Layout.Inspect_1.1.4_18
 [Release链接](https://github.com/1332165192/back/releases/tag/Layout.Inspect_1.1.4_18)
+
+## App_Settings_Reborn_v1.7
+[Release链接](https://github.com/1332165192/back/releases/tag/App_Settings_Reborn_v1.7)
