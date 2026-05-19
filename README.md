@@ -141,3 +141,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## SoTap_1.0
 [Release链接](https://github.com/1332165192/back/releases/tag/SoTap_1.0)
+
+## LSPosed-v2.0.2
+[Release链接](https://github.com/1332165192/back/releases/tag/LSPosed-v2.0.2)
