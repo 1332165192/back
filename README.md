@@ -153,3 +153,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## Vector-v2.0-3021
 [Release链接](https://github.com/1332165192/back/releases/tag/Vector-v2.0-3021)
+
+## JDex2_V1.6
+[Release链接](https://github.com/1332165192/back/releases/tag/JDex2_V1.6)
