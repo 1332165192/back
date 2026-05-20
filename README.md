@@ -147,3 +147,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## FunDex_v7.2.0_2023-07-18
 [Release链接](https://github.com/1332165192/back/releases/tag/FunDex_v7.2.0_2023-07-18)
+
+## NeoZygisk-v2.3-275
+[Release链接](https://github.com/1332165192/back/releases/tag/NeoZygisk-v2.3-275)
