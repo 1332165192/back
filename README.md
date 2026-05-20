@@ -144,3 +144,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## LSPosed-v2.0.2
 [Release链接](https://github.com/1332165192/back/releases/tag/LSPosed-v2.0.2)
+
+## FunDex_v7.2.0_2023-07-18
+[Release链接](https://github.com/1332165192/back/releases/tag/FunDex_v7.2.0_2023-07-18)
