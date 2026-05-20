@@ -150,3 +150,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## NeoZygisk-v2.3-275
 [Release链接](https://github.com/1332165192/back/releases/tag/NeoZygisk-v2.3-275)
+
+## Vector-v2.0-3021
+[Release链接](https://github.com/1332165192/back/releases/tag/Vector-v2.0-3021)
