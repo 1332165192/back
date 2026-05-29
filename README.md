@@ -156,3 +156,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## JDex2_V1.6
 [Release链接](https://github.com/1332165192/back/releases/tag/JDex2_V1.6)
+
+## flutterHelper32_035409
+[Release链接](https://github.com/1332165192/back/releases/tag/flutterHelper32_035409)
