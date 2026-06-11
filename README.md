@@ -162,3 +162,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## ApkCheckPack_0.0.1
 [Release链接](https://github.com/1332165192/back/releases/tag/ApkCheckPack_0.0.1)
+
+## aibote
+[Release链接](https://github.com/1332165192/back/releases/tag/aibote)
