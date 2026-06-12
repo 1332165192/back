@@ -168,3 +168,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## app_jiagu_tezheng
 [Release链接](https://github.com/1332165192/back/releases/tag/app_jiagu_tezheng)
+
+## Yyds-Auto-1.0.7
+[Release链接](https://github.com/1332165192/back/releases/tag/Yyds-Auto-1.0.7)
