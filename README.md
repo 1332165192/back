@@ -177,3 +177,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## mt_2.26
 [Release链接](https://github.com/1332165192/back/releases/tag/mt_2.26)
+
+## MeKit_V5.2.0
+[Release链接](https://github.com/1332165192/back/releases/tag/MeKit_V5.2.0)
