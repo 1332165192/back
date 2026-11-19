@@ -180,3 +180,6 @@ https://github.com/1332165192/back/releases/tag/BurpSuite
 
 ## MeKit_V5.2.0
 [Release链接](https://github.com/1332165192/back/releases/tag/MeKit_V5.2.0)
+
+## WeAppDev_v1.0.1
+[Release链接](https://github.com/1332165192/back/releases/tag/WeAppDev_v1.0.1)
